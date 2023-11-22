@@ -1,0 +1,3 @@
+[submodule "研一上_backup/pydl8.5"]
+	path = 研一上_backup/pydl8.5
+	url = https://github.com/aia-uclouvain/pydl8.5.git
