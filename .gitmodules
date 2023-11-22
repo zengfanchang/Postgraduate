@@ -4,3 +4,6 @@
 [submodule "研一上/pydl8.5"]
 	path = 研一上/pydl8.5
 	url = git@github.com:aia-uclouvain/pydl8.5.git
+[submodule "研一上/CycleMLP-paddle"]
+	path = 研一上/CycleMLP-paddle
+	url = https://github.com/flytocc/CycleMLP-paddle.git
