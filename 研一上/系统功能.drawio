@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T15:41:34.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b4prS8swPXZIvIwMpmhj" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T15:41:44.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="E8gjEg5v8vNFhtn7wHFq" version="22.1.11" type="github">
   <diagram name="系统功能" id="VV4417I0wdI1PhkH-pq5">
     <mxGraphModel dx="1434" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,7 +513,7 @@
             <mxRectangle width="140" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yb6XYb1sn83ZiJOY77YM-128" value="用户登录管理员后台" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=1;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-126">
+        <mxCell id="Yb6XYb1sn83ZiJOY77YM-128" value="用户登录管理员后台" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=1;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;align=left;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-126">
           <mxGeometry x="140" width="530" height="40" as="geometry">
             <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
