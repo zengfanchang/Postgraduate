@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T04:45:12.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5cb1gVcZs8yWJ5lvjqMt" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T04:55:15.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GJDPTvK4Txtbv-L0-2b3" version="22.1.11" type="github">
   <diagram name="系统功能" id="VV4417I0wdI1PhkH-pq5">
     <mxGraphModel dx="1434" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,17 +279,17 @@
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-76" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="303.5" y="2660" as="sourcePoint" />
-            <mxPoint x="303.5" y="3080" as="targetPoint" />
+            <mxPoint x="306" y="3070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-77" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="630" y="2662" as="sourcePoint" />
-            <mxPoint x="630" y="3082" as="targetPoint" />
+            <mxPoint x="630" y="3064" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-78" value="私人网盘系统-管理员功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="352" y="2610" width="151" height="30" as="geometry" />
+          <mxGeometry x="386" y="2607" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-79" value="加密存储源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="2662" width="65" height="36" as="geometry" />
@@ -300,7 +300,7 @@
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-81" value="修改存储源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="2716" width="65" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Yb6XYb1sn83ZiJOY77YM-83" value="Visitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Yb6XYb1sn83ZiJOY77YM-83" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="227" y="2796" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-84" value="注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
