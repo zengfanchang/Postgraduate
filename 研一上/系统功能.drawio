@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T09:10:05.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="blJB3wX3HZo0ofAbytkE" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T11:43:05.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="40IUlRufNnQLNmBHhBOj" version="22.1.11" type="github">
   <diagram name="系统功能" id="VV4417I0wdI1PhkH-pq5">
     <mxGraphModel dx="1434" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2632,7 +2632,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-672" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;rowLines=0;columnLines=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="9720" width="670" height="500" as="geometry" />
+          <mxGeometry x="100.5" y="9720" width="670" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Yb6XYb1sn83ZiJOY77YM-673" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-672">
           <mxGeometry width="670" height="30" as="geometry" />
@@ -2642,7 +2642,7 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yb6XYb1sn83ZiJOY77YM-675" value="011" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=1;bottom=0;right=1;pointerEvents=1;fontSize=16;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-673">
+        <mxCell id="Yb6XYb1sn83ZiJOY77YM-675" value="012" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=1;bottom=0;right=1;pointerEvents=1;fontSize=16;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-673">
           <mxGeometry x="140" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2652,7 +2652,7 @@
             <mxRectangle width="144" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yb6XYb1sn83ZiJOY77YM-677" value="删除文件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-673">
+        <mxCell id="Yb6XYb1sn83ZiJOY77YM-677" value="重命名文件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-673">
           <mxGeometry x="464" width="206" height="30" as="geometry">
             <mxRectangle width="206" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2665,7 +2665,7 @@
             <mxRectangle width="140" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yb6XYb1sn83ZiJOY77YM-680" value="删除存储源中的文件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=1;left=1;bottom=1;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;align=left;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-678">
+        <mxCell id="Yb6XYb1sn83ZiJOY77YM-680" value="对选择的文件重名率" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=1;left=1;bottom=1;right=0;pointerEvents=1;fontSize=16;rowspan=1;colspan=3;align=left;" vertex="1" parent="Yb6XYb1sn83ZiJOY77YM-678">
           <mxGeometry x="140" width="530" height="40" as="geometry">
             <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
